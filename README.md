@@ -1,6 +1,5 @@
 # flutter_2024
 
-From ChatGPT: 
 one-week training plan for Flutter can help you get started with mobile app development using Dart and Flutter framework. Here's a suggested plan for a week:
 
 Day 1: Setup and Introduction
